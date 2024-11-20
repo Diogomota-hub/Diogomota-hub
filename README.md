@@ -22,3 +22,4 @@
   
 </div>
 
+![Snake animation](https//github.com/Diogomota-hub/blob/output/github-contribution-grid-snake.svg)
