@@ -1,4 +1,4 @@
-## olá! Eu sou odiogo mota
+## olá! Eu sou o Diogo mota
 
 - 🌱 Estudando front-end
 - ⚡ Gosto de aprender coisas novas
